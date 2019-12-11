@@ -1,0 +1,15 @@
+virtual int setDirection(GPIO_DIRECTION); 
+
+this line calls the function setDirection. setDireciton uses the int GPIO_DIRECTION 
+to determine what direciton to set the GPIO pin to. 
+
+
+
+
+
+virtual GPIO_VALUE getValue();
+
+getValue can be used to extract a string from a form entry. Therefore, this gets 
+the value for GPIO_VALUE
+
+
